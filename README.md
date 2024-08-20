@@ -5,8 +5,3 @@
 <p align="center">
 Hi <3 Hello, I'm Darline, a 16-year-old girl passionate about technology. I'm going to study Computer Science💻🤍. When I'm not coding, I'm learning a lot of skills for a better future✨.
 <p align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=darlin-e&theme=modern-lilac2&type=png)](https://git.io/streak-stats)
-![f2bd0e8f2a9d5e49f117a49840a59c1d](https://github.com/user-attachments/assets/5b626113-c630-4b38-8878-67fabff8511b)
-</p>
-![Views](https://komarev.com/ghpvc/?username=Jazz-aii&abbreviated=true)
