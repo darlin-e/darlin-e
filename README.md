@@ -1,8 +1,7 @@
-# 💫 About Me:
+# About Me:
 Hi, I'm Darline, a 16 years old passionate about technology. I’m going to study Computer Science 💻🤍 . When I'm not coding, I'm learning a lot of skills for a better future. ✨
 
 
-## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/DARLINe_007) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/DARLINe_007) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@DARLINe_007) 
 
 # 💻 Tech Stack:
