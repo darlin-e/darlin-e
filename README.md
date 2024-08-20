@@ -1,3 +1,4 @@
+<imag>"https://i.pinimg.com/originals/fb/87/db/fb87db5be015db09b0a75487db510731.jpg"<imag/>
 # About Me:
 Hi, I'm Darline, a 16 years old passionate about technology. I’m going to study Computer Science 💻🤍 . When I'm not coding, I'm learning a lot of skills for a better future. ✨
 
